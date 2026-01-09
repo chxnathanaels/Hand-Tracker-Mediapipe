@@ -23,6 +23,11 @@ The application processes live video feed to detect hand landmarks and calculate
 ### Software
 * Python 3.10+
 * OpenCV
+* Hand Landmarker
+```
+Google Hand Handmarker Download:
+https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/latest/hand_landmarker.task
+```
 * MediaPipe
 
 ```
