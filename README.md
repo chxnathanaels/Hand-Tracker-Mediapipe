@@ -25,7 +25,7 @@ The application processes live video feed to detect hand landmarks and calculate
 * OpenCV
 * Hand Landmarker
 ```
-Google Hand Handmarker Download:
+Google Hand Landmarker Download:
 https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/latest/hand_landmarker.task
 ```
 * MediaPipe
